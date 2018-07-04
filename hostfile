@@ -1,0 +1,13 @@
+10.90.1.78       ns1     ns1.mylabsonline.com
+10.90.1.201      ose-master1     ose-master1.mylabsonline.com
+10.90.1.202      ose-master2     ose-master2.mylabsonline.com
+10.90.1.203      ose-master3     ose-master3.mylabsonline.com
+10.90.1.204      ose-master      ose-master.mylabsonline.com
+10.90.1.205      ose-etcd1       ose-etcd1.mylabsonline.com
+10.90.1.206      ose-etcd2       ose-etcd2.mylabsonline.com
+10.90.1.207      ose-etcd3       ose-etcd3.mylabsonline.com
+10.90.1.208      ose-hub1        ose-hub1.mylabsonline.com
+10.90.1.209      ose-hub2        ose-hub2.mylabsonline.com
+10.90.2.210      ose-node1       ose-node1.mylabsonline.com
+10.90.2.211      ose-node2       ose-node2.mylabsonline.com
+10.90.2.212      ose-node3       ose-node3.mylabsonline.com
